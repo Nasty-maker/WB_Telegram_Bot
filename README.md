@@ -104,3 +104,5 @@ python-dotenv~=1.0.1
 Убедитесь, что у бота есть доступ к записи в текущую директорию.
 Если файл не создается, проверьте код в Parser.py и правильность URL API Wildberries:
 url = 'https://static-basket-01.wbbasket.ru/vol0/data/main-menu-ru-ru-v3.json'
+
+# Test for Sennin review
